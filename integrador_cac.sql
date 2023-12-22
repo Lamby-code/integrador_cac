@@ -2,7 +2,7 @@ CREATE DATABASE  IF NOT EXISTS `integrador_cac` /*!40100 DEFAULT CHARACTER SET u
 USE `integrador_cac`;
 -- MySQL dump 10.13  Distrib 8.0.34, for Win64 (x86_64)
 --
--- Host: 127.0.0.1    Database: integrador_cac
+-- Database: integrador_cac
 -- ------------------------------------------------------
 -- Server version	8.0.35
 
